@@ -3,6 +3,7 @@
 </p>
 just my obsidian words (not stars)
 
+---
 <!-- ninebot-track-image:start -->
 
 ![无底图骑行轨迹](assets/ninebot-tracks.png)
