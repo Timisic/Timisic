@@ -6,6 +6,6 @@ just my obsidian words (not stars)
 ---
 <!-- ninebot-track-image:start -->
 
-![无底图骑行轨迹](assets/ninebot-tracks.png)
-my ninebot map
+![骑行轨迹](assets/ninebot-tracks.png)
+
 <!-- ninebot-track-image:end -->
