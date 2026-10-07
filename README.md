@@ -8,10 +8,6 @@ Fit quietly into everyday life.
 
 <!-- ninebot-track-image:start -->
 
-<p align="center">
-  <img src="assets/ninebot-tracks.png" alt="骑行轨迹" width="420">
-  <br>
-  <sub>Everyday rides, traced over time.</sub>
-</p>
+![骑行轨迹](assets/ninebot-tracks.png)
 
 <!-- ninebot-track-image:end -->
